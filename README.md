@@ -1,3 +1,39 @@
+# 📝 Notes API
+
+A RESTful API built using **Node.js**, **Express.js**, and **Firebase Firestore** that enables users to create, read, update, and delete notes. This project demonstrates core backend development skills, integration with cloud databases, input validation, and error handling.
+
+---
+
+## 🚀 Features
+
+- ✅ Full CRUD operations for notes
+- 🔐 Secure integration with Firebase Firestore
+- 📦 Input validation using `express-validator`
+- 🛡️ Robust error handling for API reliability
+- 🧪 Tested using Postman
+- 🧱 Scalable architecture suitable for deployment
+
+---
+
+## 🛠️ Tech Stack
+
+- **Node.js** – JavaScript runtime
+- **Express.js** – Web framework for Node.js
+- **Firebase Admin SDK** – Access Firebase services securely
+- **Firestore** – NoSQL cloud database
+- **Express Validator** – Middleware for validating user input
+- **Postman** – API testing
+
+---
+
+## 📦 Installation & Setup
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/notes-api.git
+cd notes-api
+
 Notes API
 A RESTful API for managing notes, built with Node.js, Express.js, and Firebase Firestore. This project provides endpoints for creating, reading, updating, and deleting (CRUD) notes, stored in a Firestore database. It includes input validation, error handling, and is tested using Postman.
 Table of Contents
